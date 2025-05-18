@@ -3,7 +3,7 @@
 Este projeto Docker cria um ambiente Ubuntu com Google Chrome acessível via VNC. Ideal para navegação isolada, testes ou uso de browser em ambiente controlado.
 
 ## Funcionalidades
-- Ubuntu 20.04 como base
+- Ubuntu como base
 - Instalação do Google Chrome
 - Ambiente gráfico virtual com Xvfb
 - Acesso remoto via VNC (porta 5900)
@@ -49,4 +49,4 @@ docker rm chrome-browser
 **Testado com:**
 - TigerVNC Viewer versão 1.15.0 ([download](https://sourceforge.net/projects/tigervnc/))
 
-**Autor:** Seu Nome
+**Autor:** Anderson Ibrahim
