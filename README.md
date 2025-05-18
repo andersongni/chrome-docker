@@ -1,4 +1,4 @@
-# VPN-browser
+# chrome-docker
 
 Este projeto Docker cria um ambiente Ubuntu com Google Chrome acessível via VNC. Ideal para navegação isolada, testes ou uso de browser em ambiente controlado.
 
